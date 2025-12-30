@@ -64,12 +64,7 @@ I enjoy working on both individual and team-based projects, and I'm always eager
 Feel free to reach out or check my work here on GitHub!
 <p>Email: knezevicn154@gmail.com</p>
 
----
 
-<h1 align="center">Congratulations! You’ve reached the end.</h1>
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmE4ZTRxYW05Z24wbzlmMmk2aG53ZDV0aXl2ajg3ejQ1OTVqdWV4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m4g1vtdI6EXrG/giphy.gif" width="500" />
-</p>
 
 <!--
 **knezzevic/knezzevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
